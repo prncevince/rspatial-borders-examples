@@ -1,4 +1,28 @@
+# R/RStudio
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+# R Markdown
+*.nb.html
+/*_cache
+test.Rmd
+test.html
+# User RStudio & R Markdown to preview markdown files before on remote repo
+README.html
+README_files/
+CONTRIBUTING.html
+# A personal note directory - add your notes in here
+/notes
+# For the data
+/data/*
+# Vim
+*.swp
+# OS
+.DS_Store
+# plots
+/plots
+# misc
+test.Rmd
+# website
+/docs
